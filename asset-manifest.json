@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TrackerProject/static/css/main.b168fad1.chunk.css",
+    "main.css": "/TrackerProject/static/css/main.571bfe08.chunk.css",
     "main.js": "/TrackerProject/static/js/main.3c083bba.chunk.js",
     "main.js.map": "/TrackerProject/static/js/main.3c083bba.chunk.js.map",
     "runtime-main.js": "/TrackerProject/static/js/runtime-main.6b737208.js",
@@ -8,16 +8,16 @@
     "static/js/2.f71f510e.chunk.js": "/TrackerProject/static/js/2.f71f510e.chunk.js",
     "static/js/2.f71f510e.chunk.js.map": "/TrackerProject/static/js/2.f71f510e.chunk.js.map",
     "index.html": "/TrackerProject/index.html",
-    "precache-manifest.af5d835005c2c7fd1170da8446fff95e.js": "/TrackerProject/precache-manifest.af5d835005c2c7fd1170da8446fff95e.js",
+    "precache-manifest.f638dd919ba9f257a0c7d618dc07d997.js": "/TrackerProject/precache-manifest.f638dd919ba9f257a0c7d618dc07d997.js",
     "service-worker.js": "/TrackerProject/service-worker.js",
-    "static/css/main.b168fad1.chunk.css.map": "/TrackerProject/static/css/main.b168fad1.chunk.css.map",
+    "static/css/main.571bfe08.chunk.css.map": "/TrackerProject/static/css/main.571bfe08.chunk.css.map",
     "static/js/2.f71f510e.chunk.js.LICENSE.txt": "/TrackerProject/static/js/2.f71f510e.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/TrackerProject/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6b737208.js",
     "static/js/2.f71f510e.chunk.js",
-    "static/css/main.b168fad1.chunk.css",
+    "static/css/main.571bfe08.chunk.css",
     "static/js/main.3c083bba.chunk.js"
   ]
 }
